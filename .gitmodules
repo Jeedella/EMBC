@@ -4,3 +4,6 @@
 [submodule "EMBC_UART_pipe"]
 	path = EMBC_UART_pipe
 	url = https://github.com/Jeedella/EMBC_UART_pipe.git
+[submodule "EMBC_miniproj_template"]
+	path = EMBC_miniproj_template
+	url = https://github.com/Jeedella/EMBC_miniproj_template.git
